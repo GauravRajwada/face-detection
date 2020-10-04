@@ -1,0 +1,20 @@
+Make your own data in this folder in following pattern.
+
+Training--
+	  a--
+	      images of a
+	  b--
+	      images of b
+	  c--
+	      images of c
+	   ..........	
+	
+
+Testing--
+	  a--
+	      images of a
+	  b--
+	      images of b
+	  c--
+	      images of c
+	   ..........
